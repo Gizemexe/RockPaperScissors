@@ -1,10 +1,10 @@
 ## Rock Paper Scissors with JAVA GUI 
  ### I made this project for fun and learn more about JAVA GUI and its functions.
 
- ##What is a Java Gui Application?
+ ### What is a Java Gui Application?
 A Java GUI application is an application that uses a graphical user interface to interact with users and allow them to complete tasks. 
 
- ##Graphical User Interface (GUI)
+ ### Graphical User Interface (GUI)
 
 one of the great advantages of the Java language is that its extensive class library makes it relatively easy to develop applications with Graphical User Interfaces (GUIs). Today nearly all personal computing applications are GUI-based. GUI programming requires event-driven programming, which means that GUI programs react to events that are generated mostly by the user’s interactions with elements like buttons in the GUI.
 
@@ -60,7 +60,7 @@ Here it is, a Gif for showing that how my game is working and how I made the des
 ![Rock Paper Scissors Game 2024-02-15 13-39-18](https://github.com/Gizemexe/RockPaperScissors/assets/108283247/40f96766-bd8c-47ff-a2c7-f56dd4484cac)
 
 
-##Advantages and Disadvantages of Java Gui Applications
+### Advantages and Disadvantages of Java Gui Applications
 
 The main advantage of creating a Java GUI application is that it can be easily ported to other computers. Additionally, since Java is open-source, developers can find a wide range of libraries and tools to help them develop their applications. Moreover, since Java is so widely used, it is easier for developers to find support for their applications if needed.
 
